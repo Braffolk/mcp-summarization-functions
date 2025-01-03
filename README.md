@@ -9,6 +9,7 @@
 [Installation](#installation) •
 [Usage](#usage)
 
+[![smithery badge](https://smithery.ai/badge/mcp-summarization-functions)](https://smithery.ai/server/mcp-summarization-functions)
 [![npm version](https://badge.fury.io/js/mcp-summarization-functions.svg)](https://www.npmjs.com/package/mcp-summarization-functions)
 
 </div>
@@ -20,6 +21,14 @@
 A powerful MCP server that provides intelligent summarization capabilities through a clean, extensible architecture. Built with modern TypeScript and designed for seamless integration with AI workflows.
 
 ## Installation
+
+### Installing via Smithery
+
+To install Summarization Functions for Claude Desktop automatically via [Smithery](https://smithery.ai/server/mcp-summarization-functions):
+
+```bash
+npx -y @smithery/cli install mcp-summarization-functions --client claude
+```
 
 ```bash
 npm i mcp-summarization-functions
