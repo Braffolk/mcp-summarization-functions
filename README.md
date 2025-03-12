@@ -12,6 +12,10 @@
 [![smithery badge](https://smithery.ai/badge/mcp-summarization-functions)](https://smithery.ai/server/mcp-summarization-functions)
 [![npm version](https://badge.fury.io/js/mcp-summarization-functions.svg)](https://www.npmjs.com/package/mcp-summarization-functions)
 
+<a href="https://glama.ai/mcp/servers/k6vhiu27q7">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/k6vhiu27q7/badge" alt="MCP-summarization-functions MCP server" />
+</a>
+
 </div>
 
 ---
