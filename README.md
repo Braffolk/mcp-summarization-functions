@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/braffolk-mcp-summarization-functions)
+
 <div align="center">
 
 # Summarization Functions
